@@ -1,0 +1,4 @@
+---
+applications:
+- name: ws-test
+  command: node server.js
