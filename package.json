@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "author": "Your Name",
   "dependencies": {
-    "ws": "0.4.30"
+    "ws": "0.8.1"
   },
   "engines": {
     "node": "7.5.0"
